@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-o-basico-do-java/1-o-basico-do-java.iml" filepath="$PROJECT_DIR$/1-o-basico-do-java/1-o-basico-do-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-conhecendo-a-plataforma/2-conhecendo-a-plataforma.iml" filepath="$PROJECT_DIR$/2-conhecendo-a-plataforma/2-conhecendo-a-plataforma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-trabalhando-com-lacos-de-repeticao/3-trabalhando-com-lacos-de-repeticao.iml" filepath="$PROJECT_DIR$/3-trabalhando-com-lacos-de-repeticao/3-trabalhando-com-lacos-de-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-trabalhando-com-estrutura-de-dados/4-trabalhando-com-estrutura-de-dados.iml" filepath="$PROJECT_DIR$/4-trabalhando-com-estrutura-de-dados/4-trabalhando-com-estrutura-de-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mestre-dos-codigos-java-escudeiro.iml" filepath="$PROJECT_DIR$/.idea/mestre-dos-codigos-java-escudeiro.iml" />
+    </modules>
+  </component>
+</project>
